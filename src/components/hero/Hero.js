@@ -15,7 +15,7 @@ const Hero = () => {
               <p className="hero__content-text">
                 Sit tellus lobortis sed senectus vivamus molestie. Condimentum
                 volutpat morbi facilisis quam scelerisque sapien. Et, penatibus
-                aliquam amet tellus{" "}
+                aliquam amet tellus
               </p>
               <a href="#" className="hero__content-link">
                 Explore Menu

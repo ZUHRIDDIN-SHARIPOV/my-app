@@ -29,27 +29,27 @@ function MenuLeft() {
           <div className="container">
             <ul className="offcanvas__list">
               <li className="offcanvas__item">
-                <a className="offcanvas__item-link site-header__item-link">
+                <a href="#" className="offcanvas__item-link site-header__item-link">
                   Menu
                 </a>
               </li>
               <li className="offcanvas__item">
-                <a className="offcanvas__item-link site-header__item-link">
+                <a href="#" className="offcanvas__item-link site-header__item-link">
                   News
                 </a>
               </li>
               <li className="offcanvas__item">
-                <a className="offcanvas__item-link site-header__item-link">
+                <a href="#" className="offcanvas__item-link site-header__item-link">
                   About Us
                 </a>
               </li>
               <li className="offcanvas__item">
-                <a className="offcanvas__item-link site-header__item-link">
+                <a href="#" className="offcanvas__item-link site-header__item-link">
                   Contact Us
                 </a>
               </li>
               <li className="offcanvas__item">
-                <a className="offcanvas__item-link site-header__item-link">
+                <a href="#" className="offcanvas__item-link site-header__item-link">
                   Log in
                 </a>
               </li>

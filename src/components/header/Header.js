@@ -13,31 +13,31 @@ const Header = () => {
             </div>
             <ul className="site-header__list">
               <li className="site-header__item">
-                <a href="#" className="site-header__item-link">
+                <a href="https://www.youtube.com" className="site-header__item-link">
                   Menu
                 </a>
               </li>
 
               <li className="site-header__item">
-                <a href="#" className="site-header__item-link">
+                <a href="https://www.youtube.com" className="site-header__item-link">
                   News
                 </a>
               </li>
 
               <li className="site-header__item">
-                <a href="#" className="site-header__item-link">
+                <a href="https://www.youtube.com" className="site-header__item-link">
                   About Us
                 </a>
               </li>
 
               <li className="site-header__item">
-                <a href="#" className="site-header__item-link">
+                <a href="https://www.youtube.com" className="site-header__item-link">
                   Contact Us
                 </a>
               </li>
 
               <li className="site-header__item">
-                <a href="#" className="site-header__item-link">
+                <a href="https://www.youtube.com" className="site-header__item-link">
                   Log in
                 </a>
               </li>

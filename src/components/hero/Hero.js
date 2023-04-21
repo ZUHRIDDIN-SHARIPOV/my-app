@@ -17,7 +17,7 @@ const Hero = () => {
                 volutpat morbi facilisis quam scelerisque sapien. Et, penatibus
                 aliquam amet tellus
               </p>
-              <a href="#" className="hero__content-link">
+              <a href="https://www.youtube.com" className="hero__content-link">
                 Explore Menu
               </a>
             </div>

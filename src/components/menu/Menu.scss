@@ -1,0 +1,34 @@
+.menuEaTurkish {
+  padding-top: 7px;
+}
+.offcanvas {
+  background: #bb2339;
+}
+.offcanvas__list{
+  display: flex;
+  flex-direction: column;
+  padding-top: 15px;
+}
+.offcanvas__item{
+  margin-top: 40px;
+  margin-left: 25px;
+}
+.offcanvas__item:nth-child(1){
+  margin-top: 0;
+}
+.offcanvas__item:nth-child(5) .offcanvas__item-link{
+  font-weight: 600;
+  line-height: 175%;
+  letter-spacing: 0.05em;
+  text-transform: capitalize;
+  padding: 10px 40px;
+  border: 1px solid #ffffff;
+  border-radius: 100px;
+  margin-left: -17px;
+  margin-bottom: 15px;
+  &:hover{
+    background: #ffffff;
+    color: #bb2339;
+    transition: 0.4s;
+  }
+}

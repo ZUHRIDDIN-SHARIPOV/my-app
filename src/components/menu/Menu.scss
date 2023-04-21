@@ -4,19 +4,19 @@
 .offcanvas {
   background: #bb2339;
 }
-.offcanvas__list{
+.offcanvas__list {
   display: flex;
   flex-direction: column;
   padding-top: 15px;
 }
-.offcanvas__item{
+.offcanvas__item {
   margin-top: 40px;
   margin-left: 25px;
 }
-.offcanvas__item:nth-child(1){
+.offcanvas__item:nth-child(1) {
   margin-top: 0;
 }
-.offcanvas__item:nth-child(5) .offcanvas__item-link{
+.offcanvas__item:nth-child(5) .offcanvas__item-link {
   font-weight: 600;
   line-height: 175%;
   letter-spacing: 0.05em;
@@ -26,9 +26,15 @@
   border-radius: 100px;
   margin-left: -17px;
   margin-bottom: 15px;
-  &:hover{
+  &:hover {
     background: #ffffff;
     color: #bb2339;
     transition: 0.4s;
   }
+}
+.offcanvas-header .btn-close {
+  margin: 0;
+  padding: 0;
+  margin-right: 20px;
+  margin-top: 20px;
 }

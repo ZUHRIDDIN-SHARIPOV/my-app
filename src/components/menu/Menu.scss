@@ -7,30 +7,40 @@
 .offcanvas__list {
   display: flex;
   flex-direction: column;
-  padding-top: 70px;
+  padding-top: 35px;
 }
 .offcanvas__item {
-  margin-top: 100px;
-  margin-left: 25px;
+  margin-top: 70px;
+}
+.offcanvas__item-link{
+  border: 2px solid #ffffff;
+  width: 90%;
+  border-radius: 100px;
+  padding: 17px 30px 17px 30px;
+}
+.offcanvas__item .offcanvas__item-link{
+  &:hover{
+    background: #ffffff;
+    color: #bb2339;
+    transition: 0.1s;
+  }
 }
 .offcanvas__item:nth-child(1) {
   margin-top: 0;
+}
+.offcanvas__item:nth-child(5){
+  border: none;
 }
 .offcanvas__item:nth-child(5) .offcanvas__item-link {
   font-weight: 600;
   line-height: 175%;
   letter-spacing: 0.05em;
   text-transform: capitalize;
-  padding: 10px 40px;
-  border: 1px solid #ffffff;
+  padding: 17px 60px;
+  width: 70%;
+  border: 2px solid #ffffff;
   border-radius: 100px;
-  margin-left: -17px;
-  margin-bottom: 15px;
-  &:hover {
-    background: #ffffff;
-    color: #bb2339;
-    transition: 0.4s;
-  }
+  margin-bottom: 50px;
 }
 .offcanvas-header .btn-close {
   margin: 0;

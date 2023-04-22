@@ -34,22 +34,22 @@ function MenuLeft() {
                 </a>
               </li>
               <li className="offcanvas__item">
-                <a href="https://finsweet-exam.netlify.app" className="offcanvas__item-link site-header__item-link">
+                <a href="https://website-scoot.netlify.app" className="offcanvas__item-link site-header__item-link">
                   News
                 </a>
               </li>
               <li className="offcanvas__item">
-                <a href="https://finsweet-exam.netlify.app" className="offcanvas__item-link site-header__item-link">
+                <a href="https://website-movie-films.netlify.app" className="offcanvas__item-link site-header__item-link">
                   About Us
                 </a>
               </li>
               <li className="offcanvas__item">
-                <a href="https://finsweet-exam.netlify.app" className="offcanvas__item-link site-header__item-link">
+                <a href="https://website-ip-address.netlify.app" className="offcanvas__item-link site-header__item-link">
                   Contact Us
                 </a>
               </li>
               <li className="offcanvas__item">
-                <a href="https://finsweet-exam.netlify.app" className="offcanvas__item-link site-header__item-link">
+                <a href="https://website-restcountries.netlify.app" className="offcanvas__item-link site-header__item-link">
                   Log in
                 </a>
               </li>

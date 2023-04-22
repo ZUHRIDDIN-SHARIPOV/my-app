@@ -13,31 +13,46 @@ const Header = () => {
             </div>
             <ul className="site-header__list">
               <li className="site-header__item">
-                <a href="https://finsweet-exam.netlify.app" className="site-header__item-link">
+                <a
+                  href="https://website-countries.netlify.app"
+                  className="site-header__item-link"
+                >
                   Menu
                 </a>
               </li>
 
               <li className="site-header__item">
-                <a href="https://finsweet-exam.netlify.app" className="site-header__item-link">
+                <a
+                  href="https://imtihon-website-pixer-uzbekistan.netlify.app"
+                  className="site-header__item-link"
+                >
                   News
                 </a>
               </li>
 
               <li className="site-header__item">
-                <a href="https://finsweet-exam.netlify.app" className="site-header__item-link">
+                <a
+                  href="https://imtihon-website-monito.netlify.app"
+                  className="site-header__item-link"
+                >
                   About Us
                 </a>
               </li>
 
               <li className="site-header__item">
-                <a href="https://finsweet-exam.netlify.app" className="site-header__item-link">
+                <a
+                  href="https://website-coffeeroasters.netlify.app"
+                  className="site-header__item-link"
+                >
                   Contact Us
                 </a>
               </li>
 
               <li className="site-header__item">
-                <a href="https://finsweet-exam.netlify.app" className="site-header__item-link">
+                <a
+                  href="https://website-reqres-users.netlify.app"
+                  className="site-header__item-link"
+                >
                   Log in
                 </a>
               </li>

@@ -1,6 +1,6 @@
 import regularImg from "../../assets/images/qaychi.svg";
-import kabob from "../../assets/images/kabob.png";
 import "./Regular.scss";
+import { RegularCard } from "../card/Card";
 
 const Regular = () => {
   return (
@@ -11,7 +11,6 @@ const Regular = () => {
             <div className="regular__img">
               <img src={regularImg} alt="regular__img!" />
             </div>
-
             <div className="regular__top-block">
               <h2 className="regular__top-title">Our Regular Menu Pack</h2>
               <ul className="regular__top-list">
@@ -26,115 +25,21 @@ const Regular = () => {
               </ul>
             </div>
             <ul className="regular__card-list">
-              <li className="regular__card-item">
-                <div className="regular__card-img">
-                  <img src={kabob} alt="kabob-img!" />
-                </div>
-                <h2 className="regular__card-title">
-                  Barbecue Shish kebab Shashlik Skewer
-                </h2>
-                <p className="regular__card-text">$12.00</p>
-              </li>
-              <li className="regular__card-item">
-                <div className="regular__card-img">
-                  <img src={kabob} alt="kabob-img!" />
-                </div>
-                <h2 className="regular__card-title">
-                  Barbecue Shish kebab Shashlik Skewer
-                </h2>
-                <p className="regular__card-text">$12.00</p>
-              </li>
-              <li className="regular__card-item">
-                <div className="regular__card-img">
-                  <img src={kabob} alt="kabob-img!" />
-                </div>
-                <h2 className="regular__card-title">
-                  Barbecue Shish kebab Shashlik Skewer
-                </h2>
-                <p className="regular__card-text">$12.00</p>
-              </li>
-              <li className="regular__card-item">
-                <div className="regular__card-img">
-                  <img src={kabob} alt="kabob-img!" />
-                </div>
-                <h2 className="regular__card-title">
-                  Barbecue Shish kebab Shashlik Skewer
-                </h2>
-                <p className="regular__card-text">$12.00</p>
-              </li>
-              <li className="regular__card-item">
-                <div className="regular__card-img">
-                  <img src={kabob} alt="kabob-img!" />
-                </div>
-                <h2 className="regular__card-title">
-                  Barbecue Shish kebab Shashlik Skewer
-                </h2>
-                <p className="regular__card-text">$12.00</p>
-              </li>
-              <li className="regular__card-item">
-                <div className="regular__card-img">
-                  <img src={kabob} alt="kabob-img!" />
-                </div>
-                <h2 className="regular__card-title">
-                  Barbecue Shish kebab Shashlik Skewer
-                </h2>
-                <p className="regular__card-text">$12.00</p>
-              </li>
-              <li className="regular__card-item">
-                <div className="regular__card-img">
-                  <img src={kabob} alt="kabob-img!" />
-                </div>
-                <h2 className="regular__card-title">
-                  Barbecue Shish kebab Shashlik Skewer
-                </h2>
-                <p className="regular__card-text">$12.00</p>
-              </li>
-              <li className="regular__card-item">
-                <div className="regular__card-img">
-                  <img src={kabob} alt="kabob-img!" />
-                </div>
-                <h2 className="regular__card-title">
-                  Barbecue Shish kebab Shashlik Skewer
-                </h2>
-                <p className="regular__card-text">$12.00</p>
-              </li>
-              <li className="regular__card-item">
-                <div className="regular__card-img">
-                  <img src={kabob} alt="kabob-img!" />
-                </div>
-                <h2 className="regular__card-title">
-                  Barbecue Shish kebab Shashlik Skewer
-                </h2>
-                <p className="regular__card-text">$12.00</p>
-              </li>
-              <li className="regular__card-item">
-                <div className="regular__card-img">
-                  <img src={kabob} alt="kabob-img!" />
-                </div>
-                <h2 className="regular__card-title">
-                  Barbecue Shish kebab Shashlik Skewer
-                </h2>
-                <p className="regular__card-text">$12.00</p>
-              </li>
-              <li className="regular__card-item">
-                <div className="regular__card-img">
-                  <img src={kabob} alt="kabob-img!" />
-                </div>
-                <h2 className="regular__card-title">
-                  Barbecue Shish kebab Shashlik Skewer
-                </h2>
-                <p className="regular__card-text">$12.00</p>
-              </li>
-              <li className="regular__card-item">
-                <div className="regular__card-img">
-                  <img src={kabob} alt="kabob-img!" />
-                </div>
-                <h2 className="regular__card-title">
-                  Barbecue Shish kebab Shashlik Skewer
-                </h2>
-                <p className="regular__card-text">$12.00</p>
-              </li>
+              <RegularCard />
+              <RegularCard />
+              <RegularCard />
+              <RegularCard />
+              <RegularCard />
+              <RegularCard />
+              <RegularCard />
+              <RegularCard />
+              <RegularCard />
+              <RegularCard />
+              <RegularCard />
+              <RegularCard />
             </ul>
+            <br />
+            the website has been updated!
           </div>
         </div>
       </section>

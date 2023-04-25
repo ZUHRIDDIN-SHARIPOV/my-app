@@ -1,0 +1,35 @@
+.card__item {
+  max-width: 310px;
+  background: #ffffff;
+  border-radius: 14px;
+}
+.card__item-img {
+  max-width: 270px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px 20px 10px 20px;
+}
+.card__item-title {
+  padding: 0 20px 20px 20px;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #242424;
+}
+.card__item-stars {
+  width: 108px;
+  padding-bottom: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.card__item-text {
+  padding-bottom: 40px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #bb2339;
+}

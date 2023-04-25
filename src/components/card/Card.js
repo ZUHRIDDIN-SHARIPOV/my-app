@@ -5,7 +5,7 @@ import "./Card.scss";
 const Card = () => {
   return (
     <>
-      <li className="card__item">
+      <li className="card__item regular__card-item">
         <div className="card__item-img">
           <img src={shashlik} alt="shashlik-img!" />
         </div>

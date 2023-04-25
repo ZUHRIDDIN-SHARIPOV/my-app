@@ -21,7 +21,7 @@
   text-transform: capitalize;
   color: #bb2339;
 }
-.popular__list{
+.popular__list {
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -66,7 +66,6 @@
   .popular__top-block {
     padding-top: 90px;
   }
-
 }
 @media only screen and (max-width: 355px) {
   .popular__top-title {
@@ -79,7 +78,7 @@
   .popular__top-block {
     padding-top: 70px;
   }
-  .popular__list{
+  .popular__list {
     padding-bottom: 70px;
   }
 }

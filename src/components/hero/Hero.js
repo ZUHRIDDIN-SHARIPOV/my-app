@@ -17,7 +17,7 @@ const Hero = () => {
                 volutpat morbi facilisis quam scelerisque sapien. Et, penatibus
                 aliquam amet tellus
               </p>
-              <a href=".hero" className="hero__content-link">
+              <a href="https://github.com/ZUHRIDDIN-SHARIPOV" className="hero__content-link">
                 Explore Menu
               </a>
             </div>

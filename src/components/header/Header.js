@@ -14,7 +14,7 @@ const Header = () => {
             <ul className="site-header__list">
               <li className="site-header__item">
                 <a
-                  href="https://website-countries.netlify.app"
+                  href="https://github.com/ZUHRIDDIN-SHARIPOV"
                   className="site-header__item-link"
                 >
                   Menu
@@ -23,7 +23,7 @@ const Header = () => {
 
               <li className="site-header__item">
                 <a
-                  href="https://imtihon-website-pixer-uzbekistan.netlify.app"
+                  href="https://github.com/ZUHRIDDIN-SHARIPOV"
                   className="site-header__item-link"
                 >
                   News
@@ -32,7 +32,7 @@ const Header = () => {
 
               <li className="site-header__item">
                 <a
-                  href="https://imtihon-website-monito.netlify.app"
+                  href="https://github.com/ZUHRIDDIN-SHARIPOV"
                   className="site-header__item-link"
                 >
                   About Us
@@ -41,7 +41,7 @@ const Header = () => {
 
               <li className="site-header__item">
                 <a
-                  href="https://website-coffeeroasters.netlify.app"
+                  href="https://github.com/ZUHRIDDIN-SHARIPOV"
                   className="site-header__item-link"
                 >
                   Contact Us
@@ -50,7 +50,7 @@ const Header = () => {
 
               <li className="site-header__item">
                 <a
-                  href="https://website-reqres-users.netlify.app"
+                  href="https://github.com/ZUHRIDDIN-SHARIPOV"
                   className="site-header__item-link"
                 >
                   Log in

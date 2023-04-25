@@ -17,10 +17,7 @@ const Hero = () => {
                 volutpat morbi facilisis quam scelerisque sapien. Et, penatibus
                 aliquam amet tellus
               </p>
-              <a
-                href="https://zuxriddin-sharipov.netlify.app"
-                className="hero__content-link"
-              >
+              <a href=".hero" className="hero__content-link">
                 Explore Menu
               </a>
             </div>

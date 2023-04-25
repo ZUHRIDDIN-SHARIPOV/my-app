@@ -38,8 +38,6 @@ const Regular = () => {
               <RegularCard />
               <RegularCard />
             </ul>
-            <br />
-            the website has been updated!
           </div>
         </div>
       </section>
